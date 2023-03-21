@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SuperWomen App</string>
+    <string name="hero1">Koda</string>
+    <string name="hero2">Lola</string>
+    <string name="hero3">Frankie</string>
+    <string name="hero4">Nox</string>
+    <string name="hero5">Faye</string>
+    <string name="hero6">Bella</string>
+    <string name="hero7">Moana</string>
+    <string name="hero8">Tzeitel</string>
+    <string name="hero9">Leroy</string>
+    <string name="description1">Eating treats on the terrace</string>
+    <string name="description2">Barking at Daddy</string>
+    <string name="description3">Stealing socks</string>
+    <string name="description4">Meeting new animals</string>
+    <string name="description5">Digging in the garden</string>
+    <string name="description6">Chasing sea foam</string>
+    <string name="description7">Bothering her paw-rents</string>
+    <string name="description8">Sunbathing</string>
+    <string name="description9">Sleeping in dangerous places</string>
+</resources>
